@@ -32,4 +32,5 @@ $servicetoactivate = "BI_AZURE_P2"
 $user = Import-Csv "C:\Powershell\names.csv"
 
 Ensure a CSV is used, it is important that 'name' is the header of the column.
+
 ![CSV](https://github.com/Jamie-Bray/Enable-service-for-a-license-s-in-Office-365/blob/master/namesCSV-img.png)
